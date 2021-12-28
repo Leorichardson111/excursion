@@ -11,8 +11,26 @@ h1 {
     text-align: center;
 
 }
-p {
+.para1 {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+h3 {
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 32px;
+}
+
+.para2 {
+    font-family: verdana;
+    font-size: : 21px;
+    color: gray;
+
+}
+footer {
+    text-align: right;
+    color: gray
 }
